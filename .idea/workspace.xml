@@ -1,18 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b35d501b-ce70-4ae9-a457-d04e9b013759" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-    </list>
+    <list default="true" id="2c8b32b9-1c50-4003-8351-87853bd5de18" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectId" id="21LNiEXArMneJFdqFu7vUsn4giA" />
+  <component name="ProjectId" id="21NxaRVfPNFN5Hs7A50N1twF97w" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -21,15 +16,25 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\FRANZ\IdeaProjects\untitled" />
+      <recent name="C:\Users\FRANZ\IdeaProjects\untitled\src" />
+      <recent name="C:\Users\FRANZ\IdeaProjects\untitled\out\production" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b35d501b-ce70-4ae9-a457-d04e9b013759" name="Default Changelist" comment="" />
-      <created>1637716533438</created>
+      <changelist id="2c8b32b9-1c50-4003-8351-87853bd5de18" name="Default Changelist" comment="" />
+      <created>1637795409750</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1637716533438</updated>
+      <updated>1637795409750</updated>
     </task>
     <servers />
   </component>
